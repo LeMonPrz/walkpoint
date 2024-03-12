@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C1B2F3102BA09DD6006DB866 /* Color+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1B2F30F2BA09DD6006DB866 /* Color+Extension.swift */; };
 		F80BB06F2BA04968004A2556 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F80BB06E2BA04968004A2556 /* HistoryView.swift */; };
 		F80BB0A72BA05D2B004A2556 /* OrderClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F80BB0A62BA05D2B004A2556 /* OrderClass.swift */; };
 		F80BB0A92BA074AD004A2556 /* camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = F80BB0A82BA074AD004A2556 /* camera.swift */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C1B2F30F2BA09DD6006DB866 /* Color+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Extension.swift"; sourceTree = "<group>"; };
 		F80BB06E2BA04968004A2556 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
 		F80BB0A62BA05D2B004A2556 /* OrderClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderClass.swift; sourceTree = "<group>"; };
 		F80BB0A82BA074AD004A2556 /* camera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = camera.swift; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				F8A42E472BA023EB00D5376B /* Login_FormApp.swift */,
 				F8A42E492BA023EB00D5376B /* ContentView.swift */,
 				F8C6701D2BA03F70000E1EFB /* History.swift */,
+				C1B2F30F2BA09DD6006DB866 /* Color+Extension.swift */,
 				F80BB06E2BA04968004A2556 /* HistoryView.swift */,
 				F80BB0A62BA05D2B004A2556 /* OrderClass.swift */,
 				F8A42E4B2BA023EC00D5376B /* Assets.xcassets */,
@@ -284,6 +287,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F80BB0A92BA074AD004A2556 /* camera.swift in Sources */,
+				C1B2F3102BA09DD6006DB866 /* Color+Extension.swift in Sources */,
 				F8A42E4A2BA023EB00D5376B /* ContentView.swift in Sources */,
 				F8C6701E2BA03F70000E1EFB /* History.swift in Sources */,
 				F80BB0A72BA05D2B004A2556 /* OrderClass.swift in Sources */,
